@@ -1,0 +1,16 @@
+{
+  "name": "aclima.link",
+  "short_name": "aclima.link",
+  "description": "Companion app for Aclima Bridge Node sensor data",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "assets/icon-256x256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ]
+}
